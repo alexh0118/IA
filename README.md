@@ -4,6 +4,8 @@ Repositorios y archivos de la materia inteligencia artificial cuatrimestre 2020-
 
 ## Comenzando 🚀
 
+### Lenguajes 
+
 
 ### Instalación 🔧
 
