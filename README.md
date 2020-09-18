@@ -16,6 +16,7 @@ Repositorios y archivos de la materia inteligencia artificial cuatrimestre 2020-
 
 ## Canal de Youtube
 
+https://www.youtube.com/channel/UCz2kmzQzR7pmDeffjq23vDg/about?view_as=subscriber
 
 ## Autor✒️
 
